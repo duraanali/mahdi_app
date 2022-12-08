@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: skyblue;
+  padding: 10%;
+}
+
+.location {
+  padding: 100px;
+  background-color: grey;
+  font-size: 30px;
+  font-weight: bold;
+}
